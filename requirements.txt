@@ -1,0 +1,18 @@
+# RAG-Shield Dependencies
+# Install with: pip install -r requirements.txt
+ 
+# Core RAG stack
+langchain==0.2.16
+langchain-community==0.2.16
+faiss-cpu==1.8.0
+ollama==0.3.3
+ 
+# Data handling
+pandas==2.2.2
+ 
+# Dashboard (Week 4)
+streamlit==1.38.0
+ 
+# Utilities
+python-dotenv==1.0.1
+ 
