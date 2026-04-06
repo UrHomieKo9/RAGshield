@@ -1,0 +1,21 @@
+account_id,account_holder,email,phone,balance,transaction_type,amount,date,notes
+A1001,John Martinez,john.martinez@email.com,555-0101,12500.00,deposit,2500.00,2024-01-15,Salary deposit
+A1001,John Martinez,john.martinez@email.com,555-0101,12500.00,withdrawal,200.00,2024-01-18,ATM withdrawal
+A1002,Sarah Chen,sarah.chen@email.com,555-0102,45200.75,deposit,1200.00,2024-01-10,Freelance payment
+A1002,Sarah Chen,sarah.chen@email.com,555-0102,45200.75,withdrawal,850.00,2024-01-20,Rent payment
+A1003,David Kumar,david.kumar@email.com,555-0103,8750.50,deposit,3000.00,2024-01-05,Business revenue
+A1003,David Kumar,david.kumar@email.com,555-0103,8750.50,withdrawal,500.00,2024-01-22,Utility bills
+A1004,Emily Johnson,emily.j@email.com,555-0104,92300.00,deposit,15000.00,2024-01-01,Investment return
+A1004,Emily Johnson,emily.j@email.com,555-0104,92300.00,withdrawal,2000.00,2024-01-25,Credit card payment
+A1005,Robert Lee,rob.lee@email.com,555-0105,3200.00,deposit,800.00,2024-01-12,Part-time work
+A1005,Robert Lee,rob.lee@email.com,555-0105,3200.00,withdrawal,150.00,2024-01-19,Groceries
+A1006,Priya Sharma,priya.s@email.com,555-0106,67800.25,deposit,5000.00,2024-01-08,Consulting fee
+A1006,Priya Sharma,priya.s@email.com,555-0106,67800.25,withdrawal,1200.00,2024-01-28,Insurance premium
+A1007,Michael Brown,m.brown@email.com,555-0107,21400.00,deposit,2100.00,2024-01-14,Monthly salary
+A1007,Michael Brown,m.brown@email.com,555-0107,21400.00,withdrawal,400.00,2024-01-21,Car payment
+A1008,Lisa Wong,lisa.wong@email.com,555-0108,5600.00,deposit,700.00,2024-01-11,Tutoring income
+A1008,Lisa Wong,lisa.wong@email.com,555-0108,5600.00,withdrawal,300.00,2024-01-23,Subscription services
+A1009,Carlos Rivera,c.rivera@email.com,555-0109,38900.50,deposit,6500.00,2024-01-03,Project payment
+A1009,Carlos Rivera,c.rivera@email.com,555-0109,38900.50,withdrawal,900.00,2024-01-27,Mortgage payment
+A1010,Anna Kowalski,anna.k@email.com,555-0110,14200.00,deposit,1400.00,2024-01-09,Salary deposit
+A1010,Anna Kowalski,anna.k@email.com,555-0110,14200.00,withdrawal,250.00,2024-01-24,Entertainment
